@@ -5,7 +5,7 @@ function Hello() {
         <div className="container">
             <p>Hello React App</p>
         </div>
-    )
+    );
 }
 
 export default Hello;
